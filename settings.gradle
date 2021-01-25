@@ -1,2 +1,3 @@
 rootProject.name = 'WeekendAssignments'
+include 'java'
 
